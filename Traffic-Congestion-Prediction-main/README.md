@@ -40,5 +40,5 @@ Follow the steps below to get the app running on your local system:
 ### 🔹 1. Clone the Repository
 
 ```bash
-git clone https://github.com/725aayush/Traffic-Congestion-Prediction.git
+git clone https://github.com/deepjakhar0910/Traffic-Congestion-Prediction.git
 cd Traffic-Congestion-Prediction
